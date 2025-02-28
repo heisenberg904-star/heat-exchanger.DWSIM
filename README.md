@@ -1,7 +1,8 @@
-# heat-exchanger.DWSIM
-solving complex problem on heat exchanger using chemical engineering software DWSIM
-![provided problem data1]("C:\Users\DELL\OneDrive\ドキュメント\heat exchanger data1.jpg")
-![provided problem data2](""C:\Users\DELL\OneDrive\ドキュメント\heat exchanger data2.jpg")
+# Heat-Exchanger.DWSIM
+Solving complex problem on heat exchanger using chemical engineering software DWSIM
+
+![Heat Exchanger Design ](https://www.teknoflow.co/wp-content/uploads/2025/02/heat-exchanger-website.webp)
+
 # Heat Exchanger Simulation using DWSIM
 
 ## Overview
